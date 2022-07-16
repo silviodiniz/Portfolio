@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Botao Top scroll
 //https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top
 var topbutton = document.getElementById("topBtn");
@@ -36,5 +35,5 @@ function scrollFunction() {
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
->>>>>>> 28d797b83f793b626e75ede3c430d761a5f4eacb
+
 }
