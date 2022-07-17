@@ -35,9 +35,7 @@ function scrollFunction() {
 function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
-<<<<<<< HEAD
+}
 
 }
-=======
-}
->>>>>>> e92d32219bfa22bb2afa3e51dc52147c289898f4
+
